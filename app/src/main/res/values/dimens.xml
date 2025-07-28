@@ -1,3 +1,11 @@
 <resources>
     <dimen name="fab_margin">16dp</dimen>
+    <dimen name="et_contact">14dp</dimen>
+    <dimen name="et_margin_top">28dp</dimen>
+    <dimen name="save_contact_btn_margin_top">18dp</dimen>
+    <dimen name="contact_name_size">18sp</dimen>
+    <dimen name="contact_name_margin_top">21dp</dimen>
+    <dimen name="iv_contact_size">150dp</dimen>
+    <dimen name="ic_contact_radius">100dp</dimen>
+    <dimen name="linear_layout_contact_width">290dp</dimen>
 </resources>
